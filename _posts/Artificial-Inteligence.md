@@ -3,9 +3,9 @@ layout: post
 title:  "First AI Blog"
 author: Niraj
 categories: [ Jekyll, tutorial ]
-image: assets/images/download.png
+image: assets/images/ai.jpg
 tags: [sticky]
 
 -----------
 
-AI BLOG
+Artificial Inteligence Blog
