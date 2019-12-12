@@ -33,6 +33,16 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+
+    niraj:
+      name:           Niraj
+      site:           https://cloud.aiai.care
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger and love to explore new ideas and write on AI!"
+      email:          niraj.vara@gmail.com
+      twitter:        https://twitter.com/nirajvara
+ 
+
  
 # Defaults
 defaults:
